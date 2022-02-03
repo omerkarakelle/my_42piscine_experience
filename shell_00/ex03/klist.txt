@@ -1,0 +1,5 @@
+Credentials cache: API:4E6FFF11-0768-4715-84B3-E1C5B6057916
+        Principal: okarakel@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Sep  2 10:40:28 2021  Sep  2 20:40:28 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
